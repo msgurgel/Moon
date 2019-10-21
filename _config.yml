@@ -8,7 +8,7 @@ logo:               'assets/img/fish-fear-me.jpeg'
 # background:         'assets/img/curve-of-city-building-from-below.jpg'
 tiled_bg:           false
 locale:             en_US
-url:                http://localhost:4000
+url:                https://magu.dev
 
 # Jekyll
 permalink:          /:categories/:title/
