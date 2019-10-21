@@ -1,17 +1,17 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Mateus Gurgel
+bio:                'Developer. Previously, toddler.'
+description:        "a blog about magu's side projects and other tech adventures"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+logo:               'assets/img/fish-fear-me.jpeg'
+# background:         'assets/img/curve-of-city-building-from-below.jpg'
+tiled_bg:           false
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                http://localhost:4000
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:categories/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -26,41 +26,40 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   notmagu
 
 # Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
-#xing:              username
-instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+# google:
+#   plus:            #username
+#   analytics:
+#   verify:
+#   ad-client:
+#   ad-slot:
+# bing-verify:
+# email:
+# twitter:            username
+# facebook:           username
+github-url:        msgurgel
+# stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          msgurgel
+# xing:              username
+# instagram:          username
+# lastfm:            username
+# tumblr:            username
+# medium:            '@username'
+# pinterest:         username
+# foursquare:        username
+# steam:              username
+# dribbble:          username
+# youtube:           username
+# youtube-channel:   channel
+# soundcloud:        username
+# weibo:             username
+# flickr:            username
+# codepen:           username
+# keybase:           username
+# xmpp:              username@server.com
+# hackernews:        username
 
 # Gems
 gems:

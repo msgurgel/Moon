@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2019-10-20
 comments: false
+feature: /assets/img/page-not-found-4.png
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Mateus, A Human Being
 
-## Preview
-
+I'm a software dev that mostly works with backend. I need to write more stuff here. Thanks for checking out my page! ✌️
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    /assets/img/i-guess-they-never-miss.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="That's me!" cols=1 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Other Sites I Have
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+- [Come Code With Me](comecodewith.me) – Previous side project blog I used to maintain.
+- [Isle of Lost Apps](isleoflostapps.com) – WIP site that will host most projects actual implementation.

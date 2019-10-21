@@ -166,9 +166,44 @@ figure {
       }
     }
   }
+  &.fourth {
+    @media only screen and (min-width: 62.5em) {
+      img {
+        width: calc(25% - 8px);
+        float: left;
+        margin-left: 4px;
+        margin-right: 4px;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+  &.half-center {
+    @media only screen and (min-width: 62.5em) {
+      img {
+        width: calc(50% - 4px);
+        float: center;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+  &.third-center {
+    @media only screen and (min-width: 62.5em) {
+      img {
+        width: calc(33.3% - 6px);
+        float: center;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
