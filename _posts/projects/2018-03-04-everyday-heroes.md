@@ -73,6 +73,7 @@ The theme for the 4x4 Challenge 2018 was **Solutions for Smart Cities and Commun
 </figure>
 
 ## App Screenshots
+
 <figure class="fourth">
     <a href="https://exposure.imgix.net/production/photos/72mjt3izip64vlzkcwt90f5cbibgp9bidxdc/original.png?fm=pjpg&auto=format&q=90&dpr=1&h=1500"><img src="https://exposure.imgix.net/production/photos/72mjt3izip64vlzkcwt90f5cbibgp9bidxdc/original.png?fm=pjpg&auto=format&q=90&dpr=1&h=1500"></a>
     <a href="https://exposure.imgix.net/production/photos/b2rvrsls1a8roonspmpuothk9hlc4s5ld6ug/original.png?fm=pjpg&auto=format&q=90&dpr=1&h=1500"><img src="https://exposure.imgix.net/production/photos/b2rvrsls1a8roonspmpuothk9hlc4s5ld6ug/original.png?fm=pjpg&auto=format&q=90&dpr=1&h=1500"></a>
