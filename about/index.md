@@ -18,4 +18,4 @@ I'm a software dev that mostly works with backend. I need to write more stuff he
 ## Other Sites I Have
 
 - [Come Code With Me](comecodewith.me) – Previous side project blog I used to maintain.
-- [Isle of Lost Apps](isleoflostapps.com) – WIP site that will host most projects actual implementation.
+- [Isle of Lost Apps](isleoflostapps.com) – WIP site that will host most of my projects.
